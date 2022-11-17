@@ -1,5 +1,8 @@
-# MScThesisRepositories
-Links to the repositories mentioned in the MSc Thesis
+# MScThesis
+
+Link to thesis pdf: https://fenix.tecnico.ulisboa.pt/cursos/meft/dissertacao/1128253548922708
+
+Links to the repositories referred to in the MSc Thesis
 
 https://github.com/RePlasma/PhysRevA.103.062608 \
 "Simulating non-native cubic interactions on noisy quantum machines" \
